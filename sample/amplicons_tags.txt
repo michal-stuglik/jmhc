@@ -1,0 +1,6 @@
+TTCTCGCCGGAA	sample_data_01.fna	ind_01
+GGCTACAACCGA	sample_data_02.fna	ind_02
+TTCTCGAACCGA	sample_data_02.fna	ind_03
+TCACTCAACCGA	sample_data_02.fna	ind_04
+TTCTCGAGTGTT	sample_data_02.fna	ind_05
+
